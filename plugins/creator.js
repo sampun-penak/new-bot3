@@ -18,23 +18,23 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 • No Telp`
 
 //------------ BIO
-let ppown = 'https://telegra.ph/file/cce9ab4551f7150f1970d.jpg'
+let ppown = 'https://telegra.ph/file/74d983dd46e8bac065b48.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Yan Xiao
+${htjava} *💌 Nama* : Mimim-Official
 ${htjava} *✉️ Nama RL* : Rahasia🗿
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : 15 Oktober 2004
-${htjava} *🎨 Umur* : 17
-${htjava} *🧮 Kelas* : 12
-${htjava} *🧩 Hobby* : Nonton Donghua, Chatting, Musik, Recode script bot
+${htjava} *⏰ Tanggal lahir* : 26 April 2003
+${htjava} *🎨 Umur* : 19
+${htjava} *🧮 Kelas* : LULUS
+${htjava} *🧩 Hobby* : Recode script bot, TURU, NGEGAME
 ${htjava} *💬 Sifat* : Idiot, Tidak Ramah, Bilek, Prik, Nolep
-${htjava} *🗺️ Tinggal* : Indo, Tulungagung, Jawa Timur
-${htjava} *❤️ Suka* : kucing
+${htjava} *🗺️ Tinggal* : Indo, Jateng, Demak
+${htjava} *❤️ Suka* : Kamu:v
 ${htjava} *💔 Benci* : autis, seleb
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
-${htjava} *🇫  ғᴀᴄᴇʙᴏᴏᴋ* : Fay Cat's Kun
+${htjava} *🇫  ғᴀᴄᴇʙᴏᴏᴋ* : Sampun Penak
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
 •·––––––––––––––––––––––––––·•
 `

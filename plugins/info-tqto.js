@@ -66,10 +66,10 @@ https://github.com/ImYanXiao
 
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/Xiao_yan_21",
+    mediaUrl: "https://Instagram.com/sampun_penak",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/Xiao_yan_21", 
-    title: 'Elaina-MultiDevice',
+    description: "https://Instagram.com/sampun_penak", 
+    title: 'TheBotz-Official',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc

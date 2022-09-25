@@ -4,7 +4,7 @@ import fetch from 'node-fetch'
 
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 
-let info = `Elaina Disini (｡>_<｡)`
+let info = `TheBotz Disini (｡>_<｡)`
 
 
 
@@ -12,9 +12,9 @@ let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.documen
 
 
 conn.reply(m.chat, info, m, { quoted: fakes },{ contextInfo: { externalAdReply: { showAdAttribution: true,
-      mediaUrl: "https://Instagram.com/Xiao_yan_21",
+      mediaUrl: "https://Instagram.com/sampun_penak",
       mediaType: 2,
-      description: "https://Instagram.com/Xiao_yan_21", 
+      description: "https://Instagram.com/sampun_penak", 
       title: global.titlebot,
       body: wm,
       thumbnail: thumb,
